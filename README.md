@@ -27,6 +27,6 @@ requirements;
   * coinmarketcap api
   * python3
   * pip3
-and that's all.
+  * git
 
 ## Installation
