@@ -30,3 +30,9 @@ requirements;
   * git
 
 ## Installation
+Paste these commands to set it up;
+```
+pip3 install -r requirements.txt
+chmod +x app.py
+cp app.py steven /usr/local/bin
+```
