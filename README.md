@@ -27,6 +27,7 @@ Coin:  FIL  Price:  105.54726212246932 TRY
 ## Installation🗿
 Paste these commands to set it up;
 ```
+git clone https://github.com/scchrodinger/Steven.git
 pip3 install -r requirements.txt
 chmod +x app.py
 cp app.py steven /usr/local/bin
