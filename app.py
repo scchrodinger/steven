@@ -1,6 +1,6 @@
+#!/usr/bin/env python3
 import requests
 from cli_args_system import Args
-
 
 
 args = Args(convert_numbers=False)
