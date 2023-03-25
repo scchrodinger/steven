@@ -23,5 +23,10 @@ Coin:  XLM  Price:  1.7194999960004014 TRY
 Coin:  FIL  Price:  105.54726212246932 TRY
 ```
 
-## What do you need?
-You just need a coinmarketcap api.
+requirements;
+  * coinmarketcap api
+  * python3
+  * pip3
+and that's all.
+
+## Installation
