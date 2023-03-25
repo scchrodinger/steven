@@ -1,6 +1,6 @@
 # Steven
 
-## Usage
+## Usage🗿
   Steven invested all his money to bitcoin and he went bankrupt. Now he is here to tell you coin values from your terminal.
 Here's an example of the usage of Steven;
 
@@ -23,13 +23,13 @@ Coin:  XLM  Price:  1.7194999960004014 TRY
 Coin:  FIL  Price:  105.54726212246932 TRY
 ```
 
-requirements;
+## What do you need?
   * coinmarketcap api
   * python3
   * pip3
   * git
 
-## Installation
+## Installation🗿
 Paste these commands to set it up;
 ```
 pip3 install -r requirements.txt
