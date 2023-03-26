@@ -11,16 +11,16 @@ steven -currency TRY -api 6969verysecretapi6969 -start 20 -limit 30
 
 output:
 ```
-Coin:  LEO  Price:  64.56684289168214 TRY
-Coin:  ATOM  Price:  213.1569065156615 TRY
-Coin:  XMR  Price:  3080.0896913371475 TRY
-Coin:  ETC  Price:  390.16063755599316 TRY
-Coin:  UNI  Price:  111.46032015452361 TRY
-Coin:  TON  Price:  39.62914968987967 TRY
-Coin:  OKB  Price:  798.2671714209155 TRY
-Coin:  BCH  Price:  2391.3369472146915 TRY
-Coin:  XLM  Price:  1.7194999960004014 TRY
-Coin:  FIL  Price:  105.54726212246932 TRY
+UNUS SED LEO// symbol: LEO price: 64.85187708245729 TRY 24h %change: -1.44207808
+Cosmos// symbol: ATOM price: 213.4646671836805 TRY 24h %change: -0.06667586
+Monero// symbol: XMR price: 3154.6038563717098 TRY 24h %change: 2.48466512
+Ethereum Classic// symbol: ETC price: 382.6825328717672 TRY 24h %change: -1.2641356
+Uniswap// symbol: UNI price: 109.15577904590741 TRY 24h %change: -2.12630332
+Toncoin// symbol: TON price: 39.48967857527503 TRY 24h %change: -1.35340028
+OKB// symbol: OKB price: 789.481281297646 TRY 24h %change: -1.50930165
+Stellar// symbol: XLM price: 1.7516692077834852 TRY 24h %change: 1.94691685
+Bitcoin Cash// symbol: BCH price: 2386.411653234315 TRY 24h %change: 0.03628627
+Filecoin// symbol: FIL price: 105.02145421048505 TRY 24h %change: -0.64157356
 ```
 
 
