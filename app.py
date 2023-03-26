@@ -34,10 +34,10 @@ try:
     if 'data' in json_data:
         coins = json_data['data']
         
-    for x in coins:
-        price = x['quote']['USD']['price']
-        percent_change = x['quote']['USD']['percent_change_24h']
-        print(f"{x['name']}// symbol: {x['symbol']} price: {price} 24h %change: {percent_change}")
+        for x in coins:
+            price = x['quote'][currency]['price']
+            percent_change = x['quote'][currency]['percent_change_24h']
+            print(f"{x['name']}// symbol: {x['symbol']} price: {price}{currency} 24h %change: {percent_change}")
 
     else:
         print('null')
