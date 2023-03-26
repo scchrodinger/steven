@@ -37,7 +37,7 @@ try:
         for x in coins:
             price = x['quote'][currency]['price']
             percent_change = x['quote'][currency]['percent_change_24h']
-            print(f"{x['name']}// symbol: {x['symbol']} price: {price}{currency} 24h %change: {percent_change}")
+            print(f"{x['name']}// symbol: {x['symbol']} price: {price} {currency} 24h %change: {percent_change}")
 
     else:
         print('null')
