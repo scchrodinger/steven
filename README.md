@@ -1,8 +1,7 @@
-# Steven
+# steven
 
-## Usage🗿
-  Steven invested all his money to bitcoin and he went bankrupt. Now he is here to tell you coin values from your terminal.
-Here's an example of the usage of Steven;
+## Usage
+Here's an example of the usage of steven;
 
 input:
 ```
@@ -35,6 +34,4 @@ cp app.py steven /usr/local/bin
 
 ## What do you need?
   * coinmarketcap api
-  * python3
-  * pip3
   * git
